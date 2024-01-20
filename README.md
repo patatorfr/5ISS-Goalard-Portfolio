@@ -7,7 +7,7 @@ Here is the treeview :
   - 4th year research project - Hive protector
     - Hive protector => project paper
   - 4th year internship - Network-Processor interface framework
-    - => internship poster
-      - Sub-subfolder 2.2.1
+    - 4A_poster - Goalard => internship poster for INSA's presentation
+    - Internship_prz => PowerPoint used for internal presentation of my work
   - File 1
   - File 2
