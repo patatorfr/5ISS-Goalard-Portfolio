@@ -3,10 +3,9 @@
 This repository contains all the project presented in the Portfolio.   
 
 Here is the treeview :
-- Root
-  - Folder 1
-    - Subfolder 1.1
-    - Subfolder 1.2
+- Here
+  - 4th year research project - Hive protector
+    - Hive protector => project paper
   - Folder 2
     - Subfolder 2.1
     - Subfolder 2.2
