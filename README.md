@@ -1,6 +1,6 @@
 # 5ISS-Goalard-Portfolio
 
-This repository contains all the project presented in the Portfolio.  
+This repository contains all the project presented in the Portfolio.   
 Here is the treeview :
 - Root
   - Folder 1
