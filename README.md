@@ -20,5 +20,7 @@ Here is the treeview :
   - Cloud & Edge computing  - virtualization, containerization and micro-application deployment
     - [Cloud report](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Cloud%20%26%20Edge%20computing%20-%20virtualization%2C%20containerization%20and%20micro-application%20deployment/Cloud_edge_report.pdf) => report on the lab sessions.
   - Microcontrollers & Open Source Hardware (M&OSH): transversal perspective of an IoT device design
+    - [M&OSH GitHub](https://github.com/MOSH-Insa-Toulouse/5ISS-Goalard-Lacoste) => GitHub repository of the whole project.
+  - 5G technologies - understand new mobile networks technologies
     - [M&OSH GitHub](https://github.com/MOSH-Insa-Toulouse/5ISS-Goalard-Lacoste) => GitHub repository of the whole project.  
  
