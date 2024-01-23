@@ -32,3 +32,5 @@ Here is the treeview :
     - [MAC layer](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Wireless%20sensor%20networks%20(WSN)%20-%20metrics%20about%20protocol%20efficiency%20at%20physical%20and%20MAC%20layers/MAC_layer.pptx) => MAC layer PowerPoint.
   - Emerging networks (SDN/NGN) - techniques to counter old paradigms flaws
     - Labs not done yet.
+  - Embedded AI for IoT: model optimization for embedded AI
+    - Labs not finished.
