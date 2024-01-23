@@ -30,5 +30,5 @@ Here is the treeview :
     - [M2M & LTE-M](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Wireless%20sensor%20networks%20(WSN)%20-%20metrics%20about%20protocol%20efficiency%20at%20physical%20and%20MAC%20layers/M2M_%26_LTE-M.pptx) => M2M & LTE-M PowerPoint.
     - [MAC layer](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Wireless%20sensor%20networks%20(WSN)%20-%20metrics%20about%20protocol%20efficiency%20at%20physical%20and%20MAC%20layers/MAC_layer.pdf) => MAC layer report.
     - [MAC layer](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Wireless%20sensor%20networks%20(WSN)%20-%20metrics%20about%20protocol%20efficiency%20at%20physical%20and%20MAC%20layers/MAC_layer.pptx) => MAC layer PowerPoint.
-  - Communication protocols for LP-WPAN - IPv6 integration in actual networks
-    - [Middleware](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Middleware%20for%20IoT%20-%20smart%20design%20to%20increase%20interoperability/Middleware_for_IoT.pdf) => report on the labs.
+  - Emerging networks (SDN/NGN) - techniques to counter old paradigms flaws
+    - Labs not done yet.
