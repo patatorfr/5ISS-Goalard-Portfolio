@@ -36,3 +36,9 @@ Here is the treeview :
     - Labs not finished.
   - Security for connected objects - application of security properties to IoT systems
     - Labs not finished.
+  - Energy for connected objects - harvesting and wireless power transmission
+    - Labs not finished.
+
+
+Energy for connected objects: harvesting and wireless power
+transmission
