@@ -38,6 +38,8 @@ Here is the treeview :
     - Labs not finished.
   - Energy for connected objects - harvesting and wireless power transmission
     - Labs not finished.
+  - Innovative project - IoT to support biodiversity
+    - Labs not finished.
 
 
 Energy for connected objects: harvesting and wireless power
