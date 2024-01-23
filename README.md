@@ -26,7 +26,7 @@ Here is the treeview :
   - Middleware for IoT - smart design to increase interoperability
     - [Middleware](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Middleware%20for%20IoT%20-%20smart%20design%20to%20increase%20interoperability/Middleware_for_IoT.pdf) => report on the labs.  
   - Wireless sensor networks (WSN) - metrics about protocol efficiency at physical and MAC layers
-    - [M2M & LTE-M](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Wireless%20sensor%20networks%20(WSN)%20-%20metrics%20about%20protocol%20efficiency%20at%20physical%20and%20MAC%20layers/M2M_%26_LTE-M.pdf) => report on M2M & LTE-M.
-    - [M2M & LTE-M](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Middleware%20for%20IoT%20-%20smart%20design%20to%20increase%20interoperability/Middleware_for_IoT.pdf) => report on the labs.
+    - [M2M & LTE-M](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Wireless%20sensor%20networks%20(WSN)%20-%20metrics%20about%20protocol%20efficiency%20at%20physical%20and%20MAC%20layers/M2M_%26_LTE-M.pdf) => M2M & LTE-M report.
+    - [M2M & LTE-M](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Wireless%20sensor%20networks%20(WSN)%20-%20metrics%20about%20protocol%20efficiency%20at%20physical%20and%20MAC%20layers/M2M_%26_LTE-M.pptx) => M2M & LTE-M PowerPoint.
     - [MAC layer](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Middleware%20for%20IoT%20-%20smart%20design%20to%20increase%20interoperability/Middleware_for_IoT.pdf) => report on the labs.
     - [MAC layer](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Middleware%20for%20IoT%20-%20smart%20design%20to%20increase%20interoperability/Middleware_for_IoT.pdf) => report on the labs.  
