@@ -26,4 +26,7 @@ Here is the treeview :
   - Middleware for IoT - smart design to increase interoperability
     - [Middleware](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Middleware%20for%20IoT%20-%20smart%20design%20to%20increase%20interoperability/Middleware_for_IoT.pdf) => report on the labs.  
   - Wireless sensor networks (WSN) - metrics about protocol efficiency at physical and MAC layers
-    - [Middleware](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Middleware%20for%20IoT%20-%20smart%20design%20to%20increase%20interoperability/Middleware_for_IoT.pdf) => report on the labs.  
+    - [M2M & LTE-M](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Middleware%20for%20IoT%20-%20smart%20design%20to%20increase%20interoperability/Middleware_for_IoT.pdf) => report on the labs.
+    - [M2M & LTE-M](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Middleware%20for%20IoT%20-%20smart%20design%20to%20increase%20interoperability/Middleware_for_IoT.pdf) => report on the labs.
+    - [MAC layer](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Middleware%20for%20IoT%20-%20smart%20design%20to%20increase%20interoperability/Middleware_for_IoT.pdf) => report on the labs.
+    - [MAC layer](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Middleware%20for%20IoT%20-%20smart%20design%20to%20increase%20interoperability/Middleware_for_IoT.pdf) => report on the labs.  
