@@ -23,5 +23,5 @@ Here is the treeview :
     - [M&OSH GitHub](https://github.com/MOSH-Insa-Toulouse/5ISS-Goalard-Lacoste) => GitHub repository of the whole project.
   - 5G technologies - understand new mobile networks technologies
     - [6G & Apple](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/5G%20technologies%20-%20understand%20new%20mobile%20networks%20technologies/6G.odp) => 6G PowerPoint.  
-   - Middleware for IoT - smart design to increase interoperability
+  - Middleware for IoT - smart design to increase interoperability
     - [Middleware report](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Middleware%20for%20IoT%20-%20smart%20design%20to%20increase%20interoperability/Middleware_for_IoT.pdf) => report on the labs.  
