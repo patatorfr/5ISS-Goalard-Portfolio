@@ -17,4 +17,4 @@ Here is the treeview :
     - SelectMission => contains the Java files allowing users to select a mission to do.
     - Feedback => contains the Java files so users can send feedback on their experiences.
     - Discovery => contains the Java files to make other services discoverables.
-  - File 2
+  - Cloud & Edge computing  - virtualization, containerization and micro-application deployment
