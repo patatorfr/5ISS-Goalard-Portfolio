@@ -37,6 +37,6 @@ Here is the treeview :
   - Security for connected objects - application of security properties to IoT systems
     - Labs not finished.
   - Energy for connected objects - harvesting and wireless power transmission
-    - Labs not finished.
+    - [Energy for connected objects](https://github.com/patatorfr/5ISS-Goalard-Portfolio/blob/main/Energy%20for%20connected%20objects%20-%20harvesting%20and%20wireless%20power/Energy%20harvesting.pdf) => report from the labs.
   - Innovative project - IoT to support biodiversity
     - Labs not finished.
